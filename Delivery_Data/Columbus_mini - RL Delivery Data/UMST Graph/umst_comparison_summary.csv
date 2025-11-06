@@ -1,4 +1,0 @@
-Graph,Nodes,Edges,Avg Shortest Distance (m),Avg Shortest Time (min),Pairs Evaluated,Edges/Nodes Ratio
-Full_Hotspot,26,325,4.475,7.685,325,12.5
-MST,26,25,7.875,17.553,325,0.962
-UMST,26,47,5.703,12.784,325,1.808

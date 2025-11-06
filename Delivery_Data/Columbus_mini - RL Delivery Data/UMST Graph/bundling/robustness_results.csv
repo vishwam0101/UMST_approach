@@ -1,5 +1,0 @@
-,umst,full_graph,single_mst
-0%,"{'success_rate': 1.0, 'total_distance': 0.548459, 'vehicles_used': 31}","{'success_rate': 1.0, 'total_distance': 0.44751399999999997, 'vehicles_used': 31}","{'success_rate': 1.0, 'total_distance': 0.705212, 'vehicles_used': 31}"
-10%,"{'success_rate': 1.0, 'total_distance': 0.5860120000000001, 'vehicles_used': 31}","{'success_rate': 1.0, 'total_distance': 0.46652200000000005, 'vehicles_used': 31}","{'success_rate': 0.020000000000000018, 'total_distance': 0.006359999999999999, 'vehicles_used': 1}"
-20%,"{'success_rate': 0.5700000000000001, 'total_distance': 0.3906019999999999, 'vehicles_used': 20}","{'success_rate': 1.0, 'total_distance': 0.46334300000000006, 'vehicles_used': 31}","{'success_rate': 0.020000000000000018, 'total_distance': 0.006359999999999999, 'vehicles_used': 1}"
-30%,"{'success_rate': 1.0, 'total_distance': 0.592621, 'vehicles_used': 31}","{'success_rate': 1.0, 'total_distance': 0.4663570000000001, 'vehicles_used': 31}","{'success_rate': 0.040000000000000036, 'total_distance': 0.013994999999999999, 'vehicles_used': 2}"
