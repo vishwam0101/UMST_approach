@@ -1,0 +1,162 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/551988533",
+      "properties": {
+        "@id": "way/551988533",
+        "addr:city": "Columbus",
+        "addr:housenumber": "2230",
+        "addr:postcode": "43085",
+        "addr:state": "OH",
+        "addr:street": "West Dublin Granville Road",
+        "amenity": "food_court",
+        "building": "commercial",
+        "name": "BP"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -83.0499666,
+              40.090719
+            ],
+            [
+              -83.0499705,
+              40.0906251
+            ],
+            [
+              -83.0498208,
+              40.0906215
+            ],
+            [
+              -83.0498187,
+              40.0906741
+            ],
+            [
+              -83.0497872,
+              40.0906733
+            ],
+            [
+              -83.0497855,
+              40.0907147
+            ],
+            [
+              -83.0499666,
+              40.090719
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/854444099",
+      "properties": {
+        "@id": "way/854444099",
+        "addr:city": "Columbus",
+        "addr:housenumber": "1086",
+        "addr:postcode": "43201",
+        "addr:state": "OH",
+        "addr:street": "North Fourth Street",
+        "amenity": "food_court",
+        "building": "yes",
+        "contact:instagram": "budddairyfoodhall",
+        "name": "Budd Dairy Food Hall",
+        "website": "https://budddairyfoodhall.com/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -82.9984811,
+              39.9852295
+            ],
+            [
+              -82.998477,
+              39.9852105
+            ],
+            [
+              -82.9985035,
+              39.9852074
+            ],
+            [
+              -82.9984922,
+              39.9851487
+            ],
+            [
+              -82.9990256,
+              39.9850887
+            ],
+            [
+              -82.9990521,
+              39.9852241
+            ],
+            [
+              -82.9990618,
+              39.9852741
+            ],
+            [
+              -82.9984985,
+              39.9853364
+            ],
+            [
+              -82.99851,
+              39.9853989
+            ],
+            [
+              -82.9983541,
+              39.9853917
+            ],
+            [
+              -82.9983452,
+              39.9855245
+            ],
+            [
+              -82.9976641,
+              39.9854977
+            ],
+            [
+              -82.9976895,
+              39.9851191
+            ],
+            [
+              -82.9978718,
+              39.9851263
+            ],
+            [
+              -82.99785,
+              39.9854503
+            ],
+            [
+              -82.9979882,
+              39.9854557
+            ],
+            [
+              -82.9980099,
+              39.9851323
+            ],
+            [
+              -82.998323,
+              39.9851447
+            ],
+            [
+              -82.9983177,
+              39.9852235
+            ],
+            [
+              -82.9984811,
+              39.9852295
+            ]
+          ]
+        ]
+      }
+    }
+  ],
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-06-02T00:20:11Z"
+}

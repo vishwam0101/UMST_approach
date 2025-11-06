@@ -1,0 +1,33 @@
+{
+"type": "FeatureCollection",
+"name": "hotspot_data",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "GEOID": "39049001110", "locations": 320 }, "geometry": { "type": "Point", "coordinates": [ -83.012796067061046, 40.009468129005299 ] } },
+{ "type": "Feature", "properties": { "GEOID": "39049003000", "locations": 384 }, "geometry": { "type": "Point", "coordinates": [ -82.992368351518067, 39.973786476294002 ] } },
+{ "type": "Feature", "properties": { "GEOID": "39049001121", "locations": 97 }, "geometry": { "type": "Point", "coordinates": [ -83.012300721616654, 40.000452622306533 ] } },
+{ "type": "Feature", "properties": { "GEOID": "39049007830", "locations": 96 }, "geometry": { "type": "Point", "coordinates": [ -83.041699106840539, 39.995701698041877 ] } },
+{ "type": "Feature", "properties": { "GEOID": "39049002200", "locations": 552 }, "geometry": { "type": "Point", "coordinates": [ -83.000553773176321, 39.982470204529754 ] } },
+{ "type": "Feature", "properties": { "GEOID": "39049001200", "locations": 466 }, "geometry": { "type": "Point", "coordinates": [ -83.002368932254726, 40.003947484028267 ] } },
+{ "type": "Feature", "properties": { "GEOID": "39049001902", "locations": 33 }, "geometry": { "type": "Point", "coordinates": [ -83.044372975221691, 39.990337811907992 ] } },
+{ "type": "Feature", "properties": { "GEOID": "39049001901", "locations": 38 }, "geometry": { "type": "Point", "coordinates": [ -83.030448814675836, 39.988856077296681 ] } },
+{ "type": "Feature", "properties": { "GEOID": "39049003200", "locations": 139 }, "geometry": { "type": "Point", "coordinates": [ -83.012655762003945, 39.976168812381246 ] } },
+{ "type": "Feature", "properties": { "GEOID": "39049002000", "locations": 1032 }, "geometry": { "type": "Point", "coordinates": [ -83.014374514533898, 39.982102175915209 ] } },
+{ "type": "Feature", "properties": { "GEOID": "39049001300", "locations": 541 }, "geometry": { "type": "Point", "coordinates": [ -83.000939656063522, 39.998113492276296 ] } },
+{ "type": "Feature", "properties": { "GEOID": "39049003600", "locations": 511 }, "geometry": { "type": "Point", "coordinates": [ -82.974565294406077, 39.9686719411892 ] } },
+{ "type": "Feature", "properties": { "GEOID": "39049001400", "locations": 203 }, "geometry": { "type": "Point", "coordinates": [ -82.98171686956303, 39.997271286247503 ] } },
+{ "type": "Feature", "properties": { "GEOID": "39049002300", "locations": 53 }, "geometry": { "type": "Point", "coordinates": [ -82.984087226638422, 39.980819512381949 ] } },
+{ "type": "Feature", "properties": { "GEOID": "39049001500", "locations": 114 }, "geometry": { "type": "Point", "coordinates": [ -82.976562194294502, 39.995447450510405 ] } },
+{ "type": "Feature", "properties": { "GEOID": "39049001700", "locations": 312 }, "geometry": { "type": "Point", "coordinates": [ -83.00315023380827, 39.990373343852738 ] } },
+{ "type": "Feature", "properties": { "GEOID": "39049001810", "locations": 238 }, "geometry": { "type": "Point", "coordinates": [ -83.012718931381301, 39.992102301982527 ] } },
+{ "type": "Feature", "properties": { "GEOID": "39049001820", "locations": 651 }, "geometry": { "type": "Point", "coordinates": [ -83.012832439371948, 39.987812434196627 ] } },
+{ "type": "Feature", "properties": { "GEOID": "39049002100", "locations": 231 }, "geometry": { "type": "Point", "coordinates": [ -83.006816106438507, 39.980916195436528 ] } },
+{ "type": "Feature", "properties": { "GEOID": "39049001000", "locations": 848 }, "geometry": { "type": "Point", "coordinates": [ -83.00452901784297, 40.010395601430503 ] } },
+{ "type": "Feature", "properties": { "GEOID": "39049001600", "locations": 323 }, "geometry": { "type": "Point", "coordinates": [ -82.997591476338755, 39.991418056226891 ] } },
+{ "type": "Feature", "properties": { "GEOID": "39049002900", "locations": 332 }, "geometry": { "type": "Point", "coordinates": [ -82.975253567737752, 39.974656697333479 ] } },
+{ "type": "Feature", "properties": { "GEOID": "39049002520", "locations": 377 }, "geometry": { "type": "Point", "coordinates": [ -82.95808113941608, 39.971578092894326 ] } },
+{ "type": "Feature", "properties": { "GEOID": "39049002800", "locations": 831 }, "geometry": { "type": "Point", "coordinates": [ -82.964622300764205, 39.97327534723766 ] } },
+{ "type": "Feature", "properties": { "GEOID": "39049008500", "locations": 1 }, "geometry": { "type": "Point", "coordinates": [ -83.024816055555561, 39.977399922222226 ] } },
+{ "type": "Feature", "properties": { "GEOID": "39049002510", "locations": 9 }, "geometry": { "type": "Point", "coordinates": [ -82.944029683706901, 39.992488278114479 ] } }
+]
+}

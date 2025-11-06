@@ -1,0 +1,9 @@
+{
+  "best_params": {
+    "wait_time": 30,
+    "max_bundle_size": 5,
+    "vehicle_change_time": 15,
+    "vehicle_cooldown": 300
+  },
+  "best_score": 0.2
+}

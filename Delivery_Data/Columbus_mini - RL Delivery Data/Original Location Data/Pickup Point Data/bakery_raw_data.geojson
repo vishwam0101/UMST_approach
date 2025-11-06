@@ -1,0 +1,246 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/292903388",
+      "properties": {
+        "@id": "way/292903388",
+        "building": "yes",
+        "name": "Resch's Bakery",
+        "shop": "bakery",
+        "website": "https://reschbakery.com/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -82.8881043,
+              39.9450181
+            ],
+            [
+              -82.8881243,
+              39.9447989
+            ],
+            [
+              -82.8876792,
+              39.9447739
+            ],
+            [
+              -82.8876701,
+              39.9448702
+            ],
+            [
+              -82.8876506,
+              39.9448693
+            ],
+            [
+              -82.8876374,
+              39.9450167
+            ],
+            [
+              -82.8880375,
+              39.945039
+            ],
+            [
+              -82.8880396,
+              39.9450149
+            ],
+            [
+              -82.8881043,
+              39.9450181
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/845460956",
+      "properties": {
+        "@id": "way/845460956",
+        "building": "yes",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -83.0139902,
+              40.0235973
+            ],
+            [
+              -83.0139448,
+              40.0234397
+            ],
+            [
+              -83.0139524,
+              40.023429
+            ],
+            [
+              -83.0139701,
+              40.0234253
+            ],
+            [
+              -83.0141112,
+              40.0234306
+            ],
+            [
+              -83.0141505,
+              40.0235947
+            ],
+            [
+              -83.0139902,
+              40.0235973
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/921902451",
+      "properties": {
+        "@id": "way/921902451",
+        "addr:city": "Columbus",
+        "addr:housenumber": "106",
+        "addr:postcode": "43207",
+        "addr:state": "OH",
+        "addr:street": "East Moler Street",
+        "building": "retail",
+        "diet:gluten_free": "only",
+        "name": "Bake Me Happy",
+        "opening_hours": "Tu-Fr 7:00-16:00; Sa-Su 9:00-16:00",
+        "phone": "+1-614-477-3642",
+        "shop": "bakery",
+        "website": "https://www.bakemehappygf.com/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -82.9929832,
+              39.9352973
+            ],
+            [
+              -82.9929952,
+              39.9353038
+            ],
+            [
+              -82.9930871,
+              39.9353048
+            ],
+            [
+              -82.9930815,
+              39.935384
+            ],
+            [
+              -82.9929708,
+              39.9353784
+            ],
+            [
+              -82.9929611,
+              39.9355259
+            ],
+            [
+              -82.9928651,
+              39.935523
+            ],
+            [
+              -82.9928592,
+              39.9355151
+            ],
+            [
+              -82.992854,
+              39.9355152
+            ],
+            [
+              -82.992854,
+              39.9355229
+            ],
+            [
+              -82.9927087,
+              39.9355153
+            ],
+            [
+              -82.992736,
+              39.9351657
+            ],
+            [
+              -82.992746,
+              39.9351585
+            ],
+            [
+              -82.992756,
+              39.9351514
+            ],
+            [
+              -82.9929935,
+              39.935161
+            ],
+            [
+              -82.9929832,
+              39.9352973
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1199313371",
+      "properties": {
+        "@id": "way/1199313371",
+        "addr:city": "Columbus",
+        "addr:housenumber": "2655",
+        "addr:postcode": "43232",
+        "addr:state": "OH",
+        "addr:street": "Courtright Road",
+        "building": "yes",
+        "name": "Klosterman Bakery Outlet Store",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -82.8973065,
+              39.9176643
+            ],
+            [
+              -82.8973272,
+              39.9174388
+            ],
+            [
+              -82.898003,
+              39.9174754
+            ],
+            [
+              -82.8979938,
+              39.9175751
+            ],
+            [
+              -82.8974367,
+              39.9175451
+            ],
+            [
+              -82.8974252,
+              39.9176707
+            ],
+            [
+              -82.8973065,
+              39.9176643
+            ]
+          ]
+        ]
+      }
+    }
+  ],
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-06-02T00:20:11Z"
+}
