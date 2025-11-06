@@ -1,0 +1,29 @@
+# Ignore data and large outputs
+*.csv
+*.json
+*.zip
+*.tar
+*.gz
+*.pkl
+*.npz
+*.pt
+*.pth
+*.h5
+
+# Ignore simulation results and checkpoints
+simulation_results/
+results/
+checkpoints/
+logs/
+outputs/
+
+# Ignore temporary and cache files
+__pycache__/
+*.log
+*.tmp
+*.ipynb_checkpoints/
+
+# Ignore OS / IDE junk
+.DS_Store
+Thumbs.db
+.vscode/
