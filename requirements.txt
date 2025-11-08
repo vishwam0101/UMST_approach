@@ -1,0 +1,15 @@
+pandas
+geojson
+overpass
+matplotlib
+shapely
+requests
+alphashape
+geopandas
+tqdm
+numpy
+networkx
+geopy
+torch
+ipykernel
+jupyter
