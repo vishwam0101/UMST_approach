@@ -1,6 +1,12 @@
 # Ignore data and large outputs
 *.csv
-
+*.pt
+*.pkl
+*.zip
+*.npy
+*.npz
+*.csv
+*.log
 # Ignore simulation results and checkpoints
 simulation_results/
 results/
