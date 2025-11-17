@@ -1,0 +1,17 @@
+
+Total  Locations	:	943
+Mean   Locations	[per hotspot]	:	30.4
+Median Locations	[per hotspot]	:	25
+Total  Producers	:	30
+Mean   Producers	[per hotspot]	:	1.0
+Median Producers	[per hotspot]	:	0
+Total  Consumers	:	913
+Mean   Consumers	[per hotspot]	:	29.5
+Median Consumers	[per hotspot]	:	22
+Mean   Bordering	[per hotspot]	:	5.9
+Median Bordering	[per hotspot]	:	6
+Num.   Hotspots	:	31
+Num.   Super-spots	:	1
+Median Child-Hotspots	:	30
+Mean   Locations	[per cluster]	:	943.0
+Median Locations	[per cluster]	:	943

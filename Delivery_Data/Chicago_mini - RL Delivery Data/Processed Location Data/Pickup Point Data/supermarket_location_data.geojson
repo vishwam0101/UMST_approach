@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "supermarket_location_data",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4269" } },
+"features": [
+{ "type": "Feature", "properties": { "@id": "way/210329728", "amenity": null, "building": "retail", "name": "Jewel-Osco", "shop": "supermarket", "GEOID": "17031061800" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -87.6462954, 41.9464534 ], [ -87.6463676, 41.9465732 ], [ -87.6464321, 41.9465516 ], [ -87.6467103, 41.9470102 ], [ -87.6466494, 41.9470304 ], [ -87.6466783, 41.9470773 ], [ -87.6466045, 41.9471015 ], [ -87.6465991, 41.9470946 ], [ -87.6461951, 41.9472308 ], [ -87.6462006, 41.9472377 ], [ -87.6460032, 41.9473051 ], [ -87.6456257, 41.9466813 ], [ -87.6462954, 41.9464534 ] ] ] } },
+{ "type": "Feature", "properties": { "@id": "way/238492923", "amenity": null, "building": "retail", "name": "Trader Joe's", "shop": "supermarket", "GEOID": "17031070200" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -87.646479, 41.9326844 ], [ -87.6464677, 41.9321752 ], [ -87.6460614, 41.9321802 ], [ -87.6460618, 41.9322015 ], [ -87.6460727, 41.9326894 ], [ -87.646479, 41.9326844 ] ] ] } }
+]
+}

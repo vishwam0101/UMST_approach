@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bakery_location_data",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4269" } },
+"features": [
+{ "type": "Feature", "properties": { "@id": "way/210329577", "amenity": "fast_food", "building": "retail", "name": "Einstein Bros. Bagels", "shop": "bakery", "GEOID": "17031832000" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -87.654404, 41.9447549 ], [ -87.6544982, 41.9448831 ], [ -87.6545307, 41.9449409 ], [ -87.654411, 41.9449677 ], [ -87.6543805, 41.9448948 ], [ -87.6543745, 41.9447616 ], [ -87.654404, 41.9447549 ] ] ] } }
+]
+}

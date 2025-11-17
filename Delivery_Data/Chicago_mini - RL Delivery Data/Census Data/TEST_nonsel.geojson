@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "TEST_nonsel",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4269" } },
+"features": [
+
+]
+}

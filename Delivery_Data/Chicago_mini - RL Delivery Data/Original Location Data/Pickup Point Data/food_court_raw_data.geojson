@@ -1,0 +1,687 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/5760814403",
+      "properties": {
+        "@id": "node/5760814403",
+        "access": "university",
+        "addr:city": "Chicago",
+        "addr:housenumber": "6025",
+        "addr:postcode": "60637",
+        "addr:state": "IL",
+        "addr:street": "South Ellis Avenue",
+        "amenity": "food_court",
+        "name": "Arley D. Cathey Dining Commons",
+        "opening_hours": "Mo-Th 07:00-20:30; Fr 07:00-19:30; Sa 08:00-14:30; Su 08:00-20:30",
+        "operator": "UChicago Dining",
+        "outdoor_seating": "no",
+        "smoking": "no",
+        "website": "https://dining.uchicago.edu/locations-hours-2-2/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -87.6003837,
+              41.785073
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5773800133",
+      "properties": {
+        "@id": "node/5773800133",
+        "access": "university",
+        "addr:city": "Chicago",
+        "addr:housenumber": "5706",
+        "addr:postcode": "60637",
+        "addr:state": "IL",
+        "addr:street": "South University Avenue",
+        "amenity": "food_court",
+        "cuisine": "pizza;mexican;asian;indian",
+        "name": "Hutchinson Commons Food Court"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -87.5987741,
+              41.7912253
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6344848994",
+      "properties": {
+        "@id": "node/6344848994",
+        "amenity": "food_court",
+        "check_date": "2024-06-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -87.7419393,
+              41.7856571
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6397573806",
+      "properties": {
+        "@id": "node/6397573806",
+        "addr:city": "Chicago",
+        "addr:housenumber": "900",
+        "addr:postcode": "60611",
+        "addr:state": "IL",
+        "addr:street": "North Michigan Avenue",
+        "addr:unit": "5th & 6th Floors",
+        "amenity": "food_court",
+        "name": "Aster Hall",
+        "opening_hours": "Mo-Sa 11:00-20:00; Su 11:00-18:00",
+        "website": "https://www.asterhallchicago.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -87.6249244,
+              41.8997121
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6632496502",
+      "properties": {
+        "@id": "node/6632496502",
+        "addr:city": "Chicago",
+        "addr:housenumber": "5640",
+        "addr:postcode": "60637",
+        "addr:state": "IL",
+        "addr:street": "South University Avenue",
+        "amenity": "food_court",
+        "name": "Bartlett Dining Commons",
+        "operator": "UChicago Dining",
+        "website": "https://dining.uchicago.edu/locations-hours-2-2/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -87.5984991,
+              41.7920902
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6632496504",
+      "properties": {
+        "@id": "node/6632496504",
+        "access": "university",
+        "addr:city": "Chicago",
+        "addr:housenumber": "5501",
+        "addr:postcode": "60637",
+        "addr:state": "IL",
+        "addr:street": "South University Avenue",
+        "amenity": "food_court",
+        "name": "Baker Dining Commons",
+        "operator": "UChicago Dining",
+        "website": "https://dining.uchicago.edu/locations-hours-2-2/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -87.599234,
+              41.7944399
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6632496506",
+      "properties": {
+        "@id": "node/6632496506",
+        "access": "university",
+        "addr:city": "Chicago",
+        "addr:housenumber": "5700",
+        "addr:postcode": "60637",
+        "addr:state": "IL",
+        "addr:street": "South Maryland Avenue",
+        "amenity": "food_court",
+        "name": "Sky Cafe",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -87.6044791,
+              41.7909273
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6932857335",
+      "properties": {
+        "@id": "node/6932857335",
+        "addr:city": "Chicago",
+        "addr:housenumber": "227",
+        "addr:postcode": "60606",
+        "addr:state": "IL",
+        "addr:street": "West Monroe Street",
+        "addr:unit": "2nd Floor",
+        "amenity": "food_court",
+        "name": "Rustle & Roux"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -87.6347261,
+              41.8799403
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7955996907",
+      "properties": {
+        "@id": "node/7955996907",
+        "access": "university",
+        "addr:city": "Chicago",
+        "addr:housenumber": "1156",
+        "addr:postcode": "60637",
+        "addr:state": "IL",
+        "addr:street": "East 61st Street",
+        "amenity": "food_court",
+        "name": "Woodlawn Dining Commons",
+        "operator": "UChicago Dining",
+        "website": "https://dining.uchicago.edu/locations-hours-2-2/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -87.5966434,
+              41.784955
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10142271246",
+      "properties": {
+        "@id": "node/10142271246",
+        "addr:city": "Chicago",
+        "addr:housenumber": "15",
+        "addr:postcode": "60602",
+        "addr:state": "IL",
+        "addr:street": "West Washington Street",
+        "amenity": "food_court",
+        "branch": "Chicago",
+        "brand": "Urbanspace",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "internet_access:ssid": "Urbanspace Guest",
+        "level": "0",
+        "name": "Urbanspace",
+        "opening_hours": "Mo-Fr 07:00-20:00; Sa 07:00-18:00",
+        "website": "https://www.urbanspacenyc.com/chi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -87.6285875,
+              41.8829319
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10902767699",
+      "properties": {
+        "@id": "node/10902767699",
+        "amenity": "food_court",
+        "name": "Veterans Canteen Service - Cafeteria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -87.6773071,
+              41.8696478
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10945307455",
+      "properties": {
+        "@id": "node/10945307455",
+        "amenity": "food_court",
+        "level": "2",
+        "name": "Urbanspace"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -87.6357637,
+              41.878455
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12144089766",
+      "properties": {
+        "@id": "node/12144089766",
+        "amenity": "food_court",
+        "name": "3 Sauces Hainam Chicken Rice \u6d77\u5357\u9e21\u996d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [
+            [
+              -87.6321295,
+              41.8549942
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/210270643",
+      "properties": {
+        "@id": "way/210270643",
+        "addr:city": "Chicago",
+        "addr:housenumber": "916",
+        "addr:postcode": "60607",
+        "addr:state": "IL",
+        "addr:street": "West Fulton Market",
+        "addr:street:name": "Fulton Market",
+        "addr:street:prefix": "West",
+        "amenity": "food_court",
+        "building": "yes",
+        "building:levels": "3",
+        "chicago:building_id": "879740",
+        "name": "Time Out Market Chicago",
+        "phone": "+1-312-637-7888",
+        "website": "https://www.timeout.com/chicago/time-out-market"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -87.6503389,
+              41.8868771
+            ],
+            [
+              -87.6508923,
+              41.8868735
+            ],
+            [
+              -87.6508965,
+              41.8871435
+            ],
+            [
+              -87.6504418,
+              41.8871502
+            ],
+            [
+              -87.6503465,
+              41.8871507
+            ],
+            [
+              -87.6503389,
+              41.8868771
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/913233040",
+      "properties": {
+        "@id": "way/913233040",
+        "amenity": "food_court",
+        "level": "-1",
+        "name": "Bubble Net Food Court"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -87.6136071,
+              41.8679609
+            ],
+            [
+              -87.6136065,
+              41.8679974
+            ],
+            [
+              -87.6135448,
+              41.8680453
+            ],
+            [
+              -87.6136085,
+              41.8680813
+            ],
+            [
+              -87.6135551,
+              41.8681378
+            ],
+            [
+              -87.6135447,
+              41.8681323
+            ],
+            [
+              -87.61348,
+              41.8681978
+            ],
+            [
+              -87.6134603,
+              41.8681869
+            ],
+            [
+              -87.6133971,
+              41.8682462
+            ],
+            [
+              -87.6132146,
+              41.8681053
+            ],
+            [
+              -87.6132283,
+              41.8680763
+            ],
+            [
+              -87.6132692,
+              41.8680473
+            ],
+            [
+              -87.613294,
+              41.8680688
+            ],
+            [
+              -87.6133758,
+              41.8680164
+            ],
+            [
+              -87.6133537,
+              41.8679994
+            ],
+            [
+              -87.6133912,
+              41.8679714
+            ],
+            [
+              -87.6133993,
+              41.8679774
+            ],
+            [
+              -87.6134227,
+              41.8679609
+            ],
+            [
+              -87.613469,
+              41.8679914
+            ],
+            [
+              -87.6135293,
+              41.867942
+            ],
+            [
+              -87.6135776,
+              41.86794
+            ],
+            [
+              -87.6136071,
+              41.8679609
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1178213020",
+      "properties": {
+        "@id": "way/1178213020",
+        "amenity": "food_court",
+        "name": "Catalog"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -87.6357461,
+              41.8782386
+            ],
+            [
+              -87.6357728,
+              41.8782382
+            ],
+            [
+              -87.6358232,
+              41.8782376
+            ],
+            [
+              -87.6358822,
+              41.8782368
+            ],
+            [
+              -87.6359365,
+              41.8782361
+            ],
+            [
+              -87.6359939,
+              41.8782354
+            ],
+            [
+              -87.6360198,
+              41.8782351
+            ],
+            [
+              -87.6360199,
+              41.8782393
+            ],
+            [
+              -87.6360207,
+              41.8782723
+            ],
+            [
+              -87.636021,
+              41.8782862
+            ],
+            [
+              -87.6360202,
+              41.8782911
+            ],
+            [
+              -87.6360207,
+              41.8783052
+            ],
+            [
+              -87.6360213,
+              41.8783225
+            ],
+            [
+              -87.6360276,
+              41.8783224
+            ],
+            [
+              -87.636031,
+              41.8784699
+            ],
+            [
+              -87.6360264,
+              41.8785663
+            ],
+            [
+              -87.6357494,
+              41.8785706
+            ],
+            [
+              -87.6357489,
+              41.8785484
+            ],
+            [
+              -87.6357464,
+              41.8784424
+            ],
+            [
+              -87.6357437,
+              41.8783261
+            ],
+            [
+              -87.6357478,
+              41.878326
+            ],
+            [
+              -87.6357473,
+              41.8783088
+            ],
+            [
+              -87.6357469,
+              41.8782955
+            ],
+            [
+              -87.6357467,
+              41.8782882
+            ],
+            [
+              -87.6357465,
+              41.8782763
+            ],
+            [
+              -87.6357462,
+              41.8782432
+            ],
+            [
+              -87.6357461,
+              41.8782386
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1179640662",
+      "properties": {
+        "@id": "way/1179640662",
+        "addr:city": "Chicago",
+        "addr:housenumber": "125",
+        "addr:postcode": "60603",
+        "addr:state": "IL",
+        "addr:street": "South Clark Street",
+        "amenity": "food_court",
+        "cuisine": "pizza;burger;coffee_shop;sandwich;mexican;ice_cream;chicken;seafood;sushi;american",
+        "diet:vegetarian": "yes",
+        "name": "The Sterling Food Hall",
+        "opening_hours": "Mo-Fr 07:00-19:00",
+        "outdoor_seating": "no",
+        "phone": "+1312-529-0949"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -87.6306794,
+              41.8798504
+            ],
+            [
+              -87.6306788,
+              41.8798197
+            ],
+            [
+              -87.6306732,
+              41.8795703
+            ],
+            [
+              -87.6302641,
+              41.8795744
+            ],
+            [
+              -87.6302641,
+              41.8795305
+            ],
+            [
+              -87.63021,
+              41.8795307
+            ],
+            [
+              -87.6301865,
+              41.8795313
+            ],
+            [
+              -87.6301929,
+              41.8798642
+            ],
+            [
+              -87.6306794,
+              41.8798504
+            ]
+          ]
+        ]
+      }
+    }
+  ],
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-06-02T00:20:11Z"
+}
