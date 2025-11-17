@@ -1,20 +1,22 @@
-# Ignore data and large outputs
-*.csv
+# Python env
+venv/
+.env
+__pycache__/
 
-# Ignore simulation results and checkpoints
-simulation_results/
+# Large data / outputs
+Delivery_Data/
+data/
+datasets/
+outputs/
 results/
 checkpoints/
-logs/
-outputs/
 
-# Ignore temporary and cache files
-__pycache__/
-*.log
-*.tmp
-*.ipynb_checkpoints/
+# Models / arrays / binary
+*.pt
+*.pkl
 
-# Ignore OS / IDE junk
+
+# OS / editor junk
 .DS_Store
 Thumbs.db
 .vscode/
