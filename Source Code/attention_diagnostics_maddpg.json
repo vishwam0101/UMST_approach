@@ -1,0 +1,12 @@
+{
+  "experiment_info": {
+    "baseline": "maddpg",
+    "timestamp": "2026-01-23T05:51:14.810739+00:00",
+    "note": "Diagnostic attention from centralized critic; no effect on learning"
+  },
+  "attention_diagnostics": {
+    "global_attention_mean": 0.5400492836522928,
+    "global_attention_std": 0.05344748807269466,
+    "num_attention_samples": 2226
+  }
+}
