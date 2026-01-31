@@ -1,12 +1,18 @@
 {
   "experiment_info": {
     "baseline": "maddpg",
-    "timestamp": "2026-01-23T05:51:14.810739+00:00",
-    "note": "Diagnostic attention from centralized critic; no effect on learning"
+    "timestamp": "2026-01-31T10:32:06.740930+00:00",
+    "note": "Diagnostic attention from centralized critic; no effect on learning",
+    "timing": {
+      "total_training_time_seconds": 59000.45385020692,
+      "episodes": 1,
+      "max_steps_per_episode": 100,
+      "avg_time_per_episode_seconds": 59000.45385020692
+    }
   },
   "attention_diagnostics": {
-    "global_attention_mean": 0.5400492836522928,
-    "global_attention_std": 0.05344748807269466,
-    "num_attention_samples": 2226
+    "global_attention_mean": 0.531140614201814,
+    "global_attention_std": 0.0559544748332341,
+    "num_attention_samples": 2104
   }
 }
