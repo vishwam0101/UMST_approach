@@ -1,0 +1,8 @@
+Adding things which might be useful while writing the actual paper
+
+- OR tools only makes sense for about 500-1500 deliveries which does not make sense for a whole city(similar obs. would be true for GNN or and RL approach)
+- OR tools or GNN on a subgraph of a city so big might be the next thing we want to try out
+
+- Using UMST(a sparser graph) is one of the solutions to solve the "RL is not scalable" atleast for now, using UMST is one of the best ways to get bundling even without training, training on UMST or full graph might be better, it is just not feasible
+
+- OR tools is also very different than online dispatch, it assumes that we have information about order at t=15 even when we are at time t=5
